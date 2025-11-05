@@ -79,7 +79,7 @@
 ---
 
 🧑‍💻 作者
-Vance Weng
+- Vance Weng
 - 📍 Taiwan
 - 📬 https://github.com/Yneq
 
