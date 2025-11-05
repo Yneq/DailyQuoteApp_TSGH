@@ -64,7 +64,7 @@
 4. 執行 App
 - 點選 ▶️ Run 即可在模擬器或真機上運行
 
-
+---
 
 🧭 API 來源
 - 使用免費的 Quotable API
@@ -76,14 +76,16 @@
 "author": "Walt Disney"
 }
 
-🧑‍💻 作者
+---
 
+🧑‍💻 作者
 Vance Weng
 - 📍 Taiwan
 - 📬 https://github.com/Yneq
 
-📄 License
+---
 
+📄 License
 - 本專案僅作為學習與展示用途。
 - Quotes API 內容來源：https://api.quotable.io
 
